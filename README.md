@@ -1,2 +1,0 @@
-Basic Project Of Kotlin 
-UNDERSTANDING OF LIFECYCLES OF APP
